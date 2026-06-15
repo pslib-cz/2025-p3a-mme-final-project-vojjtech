@@ -1,12 +1,12 @@
 # Under-Desk Drawer
+[**PRINTABLES**](https://www.printables.com/model/1754684-under-desk-drawer)
 
-Jednoduchý a praktický šuplík pod stůl. Ideální pro uložení psacích potřeb, nářadí nebo drobné elektroniky.
+Šuplík pod stůl pro každého, kdo chce snadno přidat úložný prostor na dosah rukou.
 
+## Komponenty
+Tělo – Hlavní skříň, která se připevní na spodní stranu desky stolu. Tisk bez podpor.
+Zásuvka – Plynule se vysouvá pro rychlý přístup k uloženým věcem. Podpory nutné.
+Zarážka – Zabrání nechtěnému vytažení zásuvky. Tisk bez podpor.
+Úchytka – Výrazný díl pro pohodlné uchopení. Tisk bez podpor.
 
-## **Hlavní funkce**
-
-Montáž pod stůl: Obal šuplíku je navržen pro pevné přichycení k desce stolu (pomocí šroubů nebo oboustranné pásky).
-
-Vyměnitelný přední panel: Přední část šuplíku je oddělitelná. Můžeš si snadno vytisknout jiný design/přidat nápis.
-
-Stop-mechanismus: V zadní části je integrován mechanismus, který brání vypadnutí šuplíku.
+Tělo a zásuvku tiskněte z PLA nebo PETG.
