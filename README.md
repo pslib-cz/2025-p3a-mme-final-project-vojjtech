@@ -9,4 +9,4 @@
 * Zarážka – Zabrání nechtěnému vytažení zásuvky. Tisk bez podpor.
 * Úchytka – Výrazný díl pro pohodlné uchopení. Tisk bez podpor.
 
-Tělo a zásuvku tiskněte z PLA nebo PETG.
+Tiskněte z PLA nebo PETG.
